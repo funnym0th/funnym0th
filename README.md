@@ -33,5 +33,7 @@ so if you need help with something, you just want to play some community edition
 or you want to have a conversation, just DM me i am friendly :D
 
 [^1]: [0auBSQ/OpenTaiko, `CLang_es.cs` file made by me](https://github.com/0auBSQ/OpenTaiko/blob/main/TJAPlayer3/I18N/CLang_es.cs)
+
 [^2]: [Matrix (protocol)](https://en.wikipedia.org/wiki/Matrix_(protocol))
+
 [^3]: [Melty Blood Actress Again Current Code *community edition*](https://play.meltyblood.club/?video=false)
