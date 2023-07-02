@@ -27,3 +27,6 @@
 on social media obviously, here some of them
 - [twitter](https://twitter.com/funnym0th)
 - [discord](https://discordapp.com/users/827738957361315851)
+- [steam??](https://steamcommunity.com/id/funnymoth/)
+so if you need help with something,  you just want to play some community edition Melty Blood,
+or you want to have a conversation, just DM me i am friendly :D
