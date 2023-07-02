@@ -16,3 +16,6 @@
 - machine learning
 - ia
 - desktop, web and android development
+
+### things unrelated to development
+- i love flowers, and i love even more to take them pictures and [post them](https://www.instagram.com/mmentom0ri_/)
