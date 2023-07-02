@@ -1,5 +1,5 @@
 # my intro i guess
-### basic info
+### about me
 - my name is camilo but just call me moth
 - he/him
 - 16y/o, bday on 28/07
