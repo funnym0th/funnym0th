@@ -21,5 +21,5 @@
 - i love flowers, and i love even more to take them pictures and [post them](https://www.instagram.com/mmentom0ri_/)
 - my favorite videogames are the [Persona](https://en.wikipedia.org/wiki/Persona_(series)) games and a *lot* of rhythm games
 - i do translation work too! from english to spanish or viceversa[^2]
-[^2]: [Translations I made for OpenTaiko](https://github.com/0auBSQ/OpenTaiko/blob/main/TJAPlayer3/I18N/CLang_es.cs)
+[^2]: [0auBSQ/OpenTaiko, `CLang_es.cs` file made by me](https://github.com/0auBSQ/OpenTaiko/blob/main/TJAPlayer3/I18N/CLang_es.cs)
 
