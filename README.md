@@ -4,6 +4,7 @@
 - he/him
 - 16y/o, bday on 28/07
 - chilean
+- [my spotify playlist](https://open.spotify.com/playlist/6uWVlQlQFEDBzvEPtsEHNd?si=f78e4ebfeb2c4081) (because it probably reflects my personality) 
 
 ### currently learning (on more-to-less priority order):
 1. C++
@@ -23,3 +24,7 @@
 - i do translation work too! from english to spanish or viceversa[^2]
 [^2]: [0auBSQ/OpenTaiko, `CLang_es.cs` file made by me](https://github.com/0auBSQ/OpenTaiko/blob/main/TJAPlayer3/I18N/CLang_es.cs)
 
+## where can i find you?
+on social media obviously, here some of them
+- [twitter](https://twitter.com/funnym0th)
+- [discord](https://discordapp.com/users/827738957361315851)
