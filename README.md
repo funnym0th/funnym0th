@@ -20,4 +20,7 @@
 ### things unrelated to development
 - i love flowers, and i love even more to take them pictures and [post them](https://www.instagram.com/mmentom0ri_/)
 - my favorite videogames are the Persona[^1] games and a *lot* of rhythm games
- [^1]: [Persona (Series)](https://en.wikipedia.org/wiki/Persona_(series))
+[^1]: [Persona (Series)](https://en.wikipedia.org/wiki/Persona_(series))
+- i do translation work too! from english to spanish or viceversa[^2]
+[^2]: [Translations I made for OpenTaiko](https://github.com/0auBSQ/OpenTaiko/blob/main/TJAPlayer3/I18N/CLang_es.cs)
+
