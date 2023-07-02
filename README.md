@@ -19,3 +19,5 @@
 
 ### things unrelated to development
 - i love flowers, and i love even more to take them pictures and [post them](https://www.instagram.com/mmentom0ri_/)
+- my favorite videogames are the entire Persona[^1] series and rhythm games
+ [^1]: [Persona (Series)](https://en.wikipedia.org/wiki/Persona_(series))
