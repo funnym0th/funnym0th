@@ -11,7 +11,6 @@
 2. Python
 3. Kotlin (material design and jetpack compose too!)
 4. JavaScript
-
 ### interests
 - data science
 - machine learning
