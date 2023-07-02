@@ -20,7 +20,7 @@
 ### things unrelated to development
 - i love flowers, and i love even more to take them pictures and [post them](https://www.instagram.com/mmentom0ri_/)
 - my favorite videogames are the [Persona](https://en.wikipedia.org/wiki/Persona_(series)) games, [WATCH_DOGS](https://en.wikipedia.org/wiki/Watch_Dogs) games and a [*lot*](https://i.imgur.com/JGJ6rB1.png) of rhythm games
-- i do translation work too! from english to spanish or viceversa[^1]
+- i do translation work too! from english to spanish or viceversa [^1]
 
 ## where can i find you?
 on social media obviously, here some of them
