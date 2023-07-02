@@ -11,3 +11,8 @@
 3. Kotlin (material design and jetpack compose too!)
 4. JavaScript
 
+### interests
+- data science
+- machine learning
+- ia
+- desktop, web and android development
