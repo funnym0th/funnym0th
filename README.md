@@ -2,6 +2,7 @@
 ### about me
 - my name is camilo but just call me moth
 - he/him
+- autistic! lol
 - 16y/o, bday on 28/07
 - chilean
 - [my spotify playlist](https://open.spotify.com/playlist/6uWVlQlQFEDBzvEPtsEHNd?si=f78e4ebfeb2c4081) (because it probably reflects my personality) 
